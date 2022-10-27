@@ -1,2 +1,2 @@
 # Pokedex 
-### Desenvolvidano curso de introdução ao desenvolvimento web com JS
+### Desenvolvida no curso de introdução ao desenvolvimento web com JS
